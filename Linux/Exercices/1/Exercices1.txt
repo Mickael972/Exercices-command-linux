@@ -1,0 +1,10 @@
+mkdir /Work/Linux/Exercices
+touch Exercices1.txt
+nano Exercices1.txt 
+1 2
+
+./1:
+Exercices1.txt
+
+./2:
+Exercices2.txt
