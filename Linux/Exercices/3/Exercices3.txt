@@ -1,0 +1,1 @@
+cat 1/Exercices1.txt 2/Exercices2.txt 3/Exercices3.txt | less
