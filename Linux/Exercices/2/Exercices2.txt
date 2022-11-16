@@ -306,3 +306,9 @@ maiky            80792   0,0  0,1  4337516   3488   ??  S    12:46     0:00.19 /
 maiky            80790   0,0  0,1  4305532   2528   ??  S    12:46     0:00.05 /System/Library/Frameworks/Security.framework/Versions/A/Resources/CloudKeychainProxy.bundle/Contents/MacOS/CloudKeychainProxy
 maiky            80789   0,0  0,1  4304920   2836   ??  S    12:46     0:00.05 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
 maiky            80788   0,0  0,2  4342180   6880   ??  S    12:46     0:00.20 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/TrustedPeersHelper.xpc/Contents/MacOS/TrustedPeersHelper
+
+la différence entre less and more le less ouvre une pseudo window pour afficher son contenu et more ouvre le contenu dans le terminal
+
+kill -X Y où Y est l'identifiant du processus
+
+kill -x 5240
